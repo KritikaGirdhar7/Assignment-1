@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    border: 2px solid #000;
+}
+table{
+border: 5px solid gray;
+border-spacing: 10px;
+background-color:rgba(247, 246, 203, 0.74);
+}
+th{
+    padding: 5px;
+    height: 20px;
+}
+td{
+    padding: 5px;
+   
+    height: 20px;
+}
